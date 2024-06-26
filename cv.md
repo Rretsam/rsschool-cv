@@ -4,7 +4,7 @@
 ### Junior Frontend Developer
 -----------------------------------------------------------------------------------
 
-![image](https://github.com/jsst268/rsschool-cv/assets/137799050/9b1851ec-0b29-462d-8ad7-63deaabab811)
+![image](https://github.com/Rretsam/rsschool-cv/blob/gh-pages/rretsam.jpg)
 
 ### Contact information:
 
