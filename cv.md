@@ -20,7 +20,7 @@ My goal is  get a new major in IT. I would like to became a good frontend develo
 
 ### **WORK EXPERIENCE**
 -------------------------------   -----------------------------------------------------
-Junior Dev: CV: [first project](https://github.com/Rretsam/rsschool-cv/edit/gh-pages/cv.md)
+Junior Dev: CV: [first project](https://github.com/Rretsam/rsschool-cv/blob/gh-pages/cv.md)
 
 ### **SOFTWARE SKILL**
 ---------------------------------------------------------------------------------------
@@ -45,7 +45,7 @@ function century(year) {
 --------------------------------------------------------------------------------------
 **Mathematician-teacher**
 * University (SFedU.ru) 
-* 
+
 
 Level of English : Intermediate
 
