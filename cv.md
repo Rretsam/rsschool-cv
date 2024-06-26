@@ -4,7 +4,7 @@
 ### Junior Frontend Developer
 -----------------------------------------------------------------------------------
 
-![image](https://github.com/Rretsam/rsschool-cv/blob/gh-pages/rretsam.jpg)
+![image](https://rretsam.github.io/rsschool-cv/rretsam.jpg)
 
 ### Contact information:
 
@@ -20,7 +20,7 @@ My goal is  get a new major in IT. I would like to became a good frontend develo
 
 ### **WORK EXPERIENCE**
 -------------------------------   -----------------------------------------------------
-Junior Dev: CV: [first project](https://github.com/Rretsam/rsschool-cv/blob/gh-pages/cv.md)
+Junior Dev: CV: [first project](https://rretsam.github.io/rsschool-cv/cv)
 
 ### **SOFTWARE SKILL**
 ---------------------------------------------------------------------------------------
