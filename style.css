@@ -4,7 +4,7 @@ html {
   }
 @font-face {
     font-family: Caprasimo;
-    src: url("assents/fonts/Caprasimo/Caprasimo-Regular.ttf");
+    src: url("Caprasimo-Regular.ttf");
 }
 
 .big_box{
@@ -183,7 +183,7 @@ padding: 54px 0px 54px 0px;
     left: 0;
     width: 32px;
     height: 32px;
-    background-image: url("../assets/img/github_l32.png");
+    background-image: url("github_l32.png");
     background-repeat: no-repeat;
     background-position: 0 0;
   } 
